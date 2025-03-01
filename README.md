@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi ! 👋 Currently i'm passionate about programming with Python, cybersecurity (hopefully extend soon) and have a deep interest in games. I enjoy exploring the intersection of technology and gaming, always eager to learn and create something new.</p>
+<p align="left">Hi !👋</p>
 
 ###
 
