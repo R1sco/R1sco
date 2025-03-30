@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Updated Soon!</p>
+<p align="left">Currently Studying Informatic Science.</p>
 
 ###
 
