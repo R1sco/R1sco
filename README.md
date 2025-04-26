@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently Studying Informatic Science.</p>
+<p align="left">Currently Studying CS</p>
 
 
 ###
