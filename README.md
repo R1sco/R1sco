@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi There!</p>
+<p align="left"></p>
 
 
 ###
