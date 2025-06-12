@@ -1,6 +1,6 @@
 ###
 
-Hi there i'm Risco. Undergraduate student at University Muhammadiyah Surakarta.
+Hi there i'm Risco. Undergraduate last year student at University Muhammadiyah Surakarta.
 
 📃 I'm currently learning:
 
