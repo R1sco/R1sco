@@ -1,8 +1,6 @@
-<h2 align="left">Hi there 🦋🦋🦋</h2>
-
 ###
 
-<p align="left"></p>
+<p align="left">Hi there i'm Risco 23 yrs old</p>
 
 
 ###
