@@ -25,7 +25,7 @@ Hi there i'm Risco. Undergraduate last year student at University Muhammadiyah S
 * **OS:** Windows and Linux (ubuntu)
 * **Laptop:** Lenovo Ideapad Gaming 3 
 * **Browser:** Brave (Lower memory so far)
-* **Terminal:** Powershell  
+* **Terminal:** Bash and Powershell  
 * **Code Editor:** VSCode, Android Studio, Windsurf (sometimes)  
 * **Other Tools:** Postman, Notion, N8n, And Burpsuite (hackerman) 
 * **To Stay Updated:** Twitter, Facebook, Reddit
