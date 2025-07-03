@@ -22,7 +22,7 @@ Hi there i'm Risco. Undergraduate last year student at UMS.
 <details>
 <summary>⚙️ My rig</summary>
 
-* **OS:** Windows and Linux (ubuntu)
+* **OS:** Windows and Kali Linux
 * **Laptop:** Lenovo Ideapad Gaming 3 
 * **Browser:** Brave (Lower memory so far)
 * **Terminal:** Bash and Powershell  
