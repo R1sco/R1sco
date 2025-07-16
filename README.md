@@ -25,9 +25,9 @@ Hi there i'm Risco. Undergraduate last year student at UMS.
 * **OS:** Windows and Kali Linux
 * **Laptop:** Lenovo Ideapad Gaming 3 
 * **Browser:** Brave (Lower memory so far)
-* **Terminal:** Bash and Powershell  
-* **Code Editor:** VSCode, Android Studio, Windsurf (sometimes)  
-* **Other Tools:** Postman, Notion, N8n, And Burpsuite (hackerman) 
+* **Terminal:** Bash, Kitty, Zsh  
+* **Code Editor:** VSCode, Android Studio, Windsurf
+* **Other Tools:** Postman, Notion, N8n
 * **To Stay Updated:** Twitter, Facebook, Reddit
 
 </details>
