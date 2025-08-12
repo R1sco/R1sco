@@ -8,7 +8,7 @@ Hi there i'm Undergraduate last year student.
 
 - 🌱 Doing web security research
 - 🌸 Interested in Blockchain
-- 🌻 What does LLM in 2077 ?
+- 🌻 I like gardening in my free time
 
 ###
 
