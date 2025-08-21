@@ -25,7 +25,8 @@ Hi there i'm Undergraduate last year student.
 * **OS:** Windows and Linux
 * **Laptop:** Lenovo Ideapad Gaming 3 
 * **Browser:** Brave (Lower memory so far)
-* **Terminal:** Bash, Kitty, Zsh  
+* **Terminal:** Alacritty
+* **Command:** Fish (since zsh so buggy) 
 * **Code Editor:** VSCode, Android Studio, Windsurf
 * **Other Tools:** Postman, Notion, N8n
 * **To Stay Updated:** Twitter, Facebook, Reddit
