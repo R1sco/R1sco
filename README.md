@@ -1,6 +1,6 @@
 ###
 
-Hi there i'm Undergraduate last year student.
+Hi there i'm Risco.
 
 📃 I'm currently learning:
 
