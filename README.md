@@ -1,6 +1,6 @@
 ###
 
-Hi there i'm Risco
+Hi there i'm Risco, Independent SR | Smart Contracts & Rust Security
 
 📃 I'm currently into:
 
