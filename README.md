@@ -18,7 +18,7 @@
 
 ### 🔭 About Me
 
-- 🛡️ I'm a smart contract auditor and cybersec enthusiasm, specializing in protocol-level security.
+- 🛡️ I'm a smart contract auditor and social engineering enthusiasm, specializing in protocol-level security.
 - 🦀 My current obsession is the security landscape of **Rust-based blockchains** and the **Move language** ecosystem.
 - 🌱 When I'm not hunting for vulnerabilities, you can usually find me in my garden.
 
