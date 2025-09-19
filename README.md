@@ -1,10 +1,10 @@
 ###
 
-Hi there i'm Risco.
+Hi there i'm Risco
 
 📃 I'm currently into:
 
-[![Rust](https://img.shields.io/badge/Rust-FFA100?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/) [![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)](https://getfoundry.sh/) [![Hardhat](https://img.shields.io/badge/hardhat-FFFF00?style=for-the-badge&logo=ethereum&logoColor=black)](https://hardhat.org/) [![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=ethereum&logoColor=white)](https://soliditylang.org/)   [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/) [![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)](https://ziglang.org/) 
+[![Rust](https://img.shields.io/badge/Rust-FFA100?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/) [![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=ethereum&logoColor=white)](https://soliditylang.org/)   [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/) [![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)](https://ziglang.org/) 
 
 - 🌱 Doing web security research
 - 🌸 Interested in Blockchain
@@ -27,7 +27,7 @@ Hi there i'm Risco.
 * **Browser:** Brave (Lower memory so far)
 * **Terminal:** Alacritty
 * **Command:** Fish (since zsh so buggy) 
-* **Code Editor:** VSCode, Android Studio, Windsurf
+* **Code Editor:** Vim, Zed, VSCode, Android Studio, Windsurf
 * **Other Tools:** Postman, Notion, N8n
 * **To Stay Updated:** Twitter, Facebook, Reddit
 
