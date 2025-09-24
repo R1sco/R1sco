@@ -56,7 +56,7 @@
 
 ### 🎧 Now Playing on Spotify
 
-<p align="center">
+<p align="left">
   <a href="https://open.spotify.com/user/21mebihb4qldwhl4lwpgmxj4q" target="_blank" rel="noopener noreferrer" aria-label="Spotify Profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21mebihb4qldwhl4lwpgmxj4q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" loading="lazy" border="0" />
   </a>
